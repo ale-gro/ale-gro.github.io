@@ -1,4 +1,5 @@
-Alex Gro
+
+Aleksandra Grokhovskaya
 ============
 
 ----
@@ -12,19 +13,22 @@ Alex Gro
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017-2021 (expected)
+:   **PhD, Physical and Mathematical  Science**; Special Astrophysical Observatory (Nizhnij Arkhyz, Karachai-Cherkessian Republic, Russia)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Star formation hystory in galaxies up to Z = 1*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2015-2017
+:   **Master, Physics Science**; The National Research Tomsk State University (TSU, Tomsk, Russia)
 
     *Minor: Awesomeology*
 
-Experience
+2006-2011
+:   **Specialist, Physics Science**; Tomsk State University of Control Systems and Radioelectronics (TUSUR University, Russia)
+
+    *Minor: Awesomeology*
+
+Presentations
 ----------
 
 **Your Most Recent Work Experience:**
