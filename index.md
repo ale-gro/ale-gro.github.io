@@ -29,7 +29,7 @@ Presentations
 ----------
 <html> 
 <body>  
-<table border="0">  
+<table border="0" width="100%" cellpadding="5">  
 <tr>  
 <td>&nbsp;</td><td>2004</td><td>2005</td><td>2006</td>  
 </tr>  
