@@ -1,7 +1,9 @@
 
 Aleksandra Grokhovskaya
 ============
-
+   | раз | два | три |
+|:----|:----|:----|
+| раз | два | три |
 ----
 
 >  In this style, the resume starts with a blockquote, where
