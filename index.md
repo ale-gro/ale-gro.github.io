@@ -27,14 +27,18 @@ Education
 
 Presentations
 ----------
-<html> 
+<html>
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <title></title>
+    </head>
 <body>  
-<table border="0" width="100%" cellpadding="5">  
-<tr>  
-<td>&nbsp;</td><td>2004</td><td>2005</td><td>2006</td>  
-</tr>  
-<tr>  <td>Рубины</td><td>43</td><td>51</td><td>79</td>  
-</tr>
+   <table border="0" width="100%" cellpadding="5">  
+   <tr>  
+   <td>&nbsp;</td><td>2004</td><td>2005</td><td>2006</td>  
+   </tr>  
+   <tr>  <td>Рубины</td><td>43</td><td>51</td><td>79</td>  
+   </tr>
 </body>  
 </html>
 
