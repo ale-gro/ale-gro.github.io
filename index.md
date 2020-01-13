@@ -33,7 +33,7 @@ Presentations
   <title>Тег TABLE</title>
  </head>
  <body>
-  <table border="1" width="100%" cellpadding="5">
+  <table border="0" width="100%" cellpadding="5">
    <tr>
     <td>Ячейка 1</td>
     <td>Ячейка 2</td>
