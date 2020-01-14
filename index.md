@@ -17,6 +17,12 @@ Education
 
 Presentations
 ----------
+
+|Talks| |
+|--|--|
+| **2019** ||
+||Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
+
 <html>
     <head>
      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
