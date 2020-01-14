@@ -72,18 +72,9 @@ Presentations
           <td>Mathematical modeling of pulsar emission profiles (IV International Scientific Conference «Contemporary Problems of                     Continuum Mechanics – 2016», Tomsk State University, Tomsk, Russia)</td>
       </tr>
  </table>
- </body>
-</html>
+       
+ <hr>
 
-
--------
-
-
-<html>
- <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- </head>
- <body>
   <table border="0" width="100%" cellpadding="5">
       <tr>
           <th>Posters</th>
@@ -122,18 +113,9 @@ Presentations
           <td>Photometric properties of a galaxies of the field HS47.5-22 (High-energy astrophysics today and tomorrow HEA-2017, Space                Research Institute, Moscow, Russia)</td>
       </tr>
  </table>
- </body>
-</html>
-
-
--------
-
-
-<html>
- <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- </head>
- <body>
+ 
+ <hr>
+ 
   <table border="0" width="100%" cellpadding="5">
       <tr>
           <th>Schools</th>
