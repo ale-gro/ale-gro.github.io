@@ -33,32 +33,31 @@ Presentations
  </head>
  <body>
   <table border="0" width="100%" cellpadding="5">
-   <tr>
-    <td>Ячейка 1</td>
-    <td>Ячейка 2</td>
-   </tr>
-   <tr>
-    <td>Ячейка 3</td>
-    <td>Ячейка 4</td>
-  </tr>
+      <tr>
+          <th>Talks</th>
+          <td></td>
+      </tr>
+      <tr>
+          <th>2019</th>
+          <td>Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic               Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)</td>
+      </tr>
+      <tr>
+          <th>2018</th>
+          <td>Photometric properties of a galaxies of the field HS47.5-22 (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio                 Astronomical Observatory, Pushcino, Russia)</td>
+      </tr>
+       <tr>
+          <th> </th>
+          <td>Properties of a galaxy sample of the field HS 47.5-22 (II Pulkovo Astronomical Youth Conference - 2009, St. Petersburg,                 Russia)</td>
+      </tr>
+      <tr>
+         <th>2017</th>
+         <td>Mathematical modeling of pulsar emission profiles (Student's conferences "Physics of Space", Kourovka astronomical                       observatory, Ekaterinburg, Russia)</td>
+       </tr> 
  </table>
  </body>
 </html>
 
 
-|Talks| |
-|--|--|
-| **2019** ||
-||Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
-| **2018** ||
-||Photometric properties of a galaxies of the field HS47.5-22 (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
-||Properties of a galaxy sample of the field HS 47.5-22 (II Pulkovo Astronomical Youth Conference - 2009, St. Petersburg, Russia)|
-| **2017** | Mathematical modeling of pulsar emission profiles (Student's conferences "Physics of Space", Kourovka astronomical observatory, Ekaterinburg, Russia) |
-||Mathematical modeling of pulsar emission profiles (International scientific conference of students and young scientists "Lomonosov", Moscow State University, Moscow, Russia)|
-| **2016** | Kinematic identification of pulsar curvature radiation profiles (Student's conferences "Physics of Space", Kourovka astronomical observatory, Ekaterinburg, Russia) |
-| | Construstion and identification of curvature radiation profiles from pulsars (Strong Field Problems in Quantum Theory, Tomsk State University, Tomsk, Russia)|
-| | Kinematic identification of pulsar emission profiles (IV All-Russian Astronomical Conference "Heaven and Earth", Irkutsk, Russia) |
-| | Mathematical modeling of pulsar emission profiles (IV International Scientific Conference «Contemporary Problems of Continuum Mechanics – 2016», Tomsk State University, Tomsk, Russia) |
 -------
 |Posters| |
 |--|--|
