@@ -32,7 +32,7 @@ Presentations
                 <th>2019</th>
                 <td>Study environmental dependence of galaxy properties (12th Serbian Conference on Spectral Line Shapes in Astrophysics, Vrdnik, Serbia)</td>
             </tr>
-        
+        </table>
  <hr>
  
   <table border="0" width="100%" cellpadding="5">
@@ -73,7 +73,7 @@ Presentations
           <th> </th>
           <td>Mathematical modeling of pulsar emission profiles (IV International Scientific Conference «Contemporary Problems of                     Continuum Mechanics – 2016», Tomsk State University, Tomsk, Russia)</td>
       </tr>
-
+</table>
  <hr>
 
   <table border="0" width="100%" cellpadding="5">
