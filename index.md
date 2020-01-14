@@ -81,7 +81,7 @@ Presentations
  <body>
   <table border="0" width="100%" cellpadding="5">
       <tr>
-          <th>Talks</th>
+          <th>Posters</th>
           <td></td>
       </tr>
       <tr>
