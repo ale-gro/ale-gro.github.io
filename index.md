@@ -84,7 +84,6 @@ Extra Section
 [My GitHub](https://github.com/ale-gro)
 
 * Human Languages:
-
      * Russian (native speaker)
      * English (B1)
 
