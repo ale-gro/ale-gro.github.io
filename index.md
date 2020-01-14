@@ -32,9 +32,7 @@ Presentations
                 <td>Study environmental dependence of galaxy properties (12th Serbian Conference on Spectral Line Shapes in Astrophysics, Vrdnik, Serbia)</td>
             </tr>
        </table>
-    </body>
  <hr>
- <body>
   <table border="0" width="100%" cellpadding="5">
       <tr>
           <th>Talks</th>
