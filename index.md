@@ -1,4 +1,5 @@
 
+
 Education
 ---------
 
@@ -26,10 +27,8 @@ Presentations
 
 |Talks| |
 |--|--|
-| **2019** ||
-||Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
-| **2018** ||
-||Photometric properties of a galaxies of the field HS47.5-22 (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
+| **2019** |Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
+| **2018** |Photometric properties of a galaxies of the field HS47.5-22 (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
 ||Properties of a galaxy sample of the field HS 47.5-22 (II Pulkovo Astronomical Youth Conference - 2009, St. Petersburg, Russia)|
 | **2017** | Mathematical modeling of pulsar emission profiles (Student's conferences "Physics of Space", Kourovka astronomical observatory, Ekaterinburg, Russia) |
 ||Mathematical modeling of pulsar emission profiles (International scientific conference of students and young scientists "Lomonosov", Moscow State University, Moscow, Russia)|
@@ -61,55 +60,33 @@ Presentations
  
 Publications
 --------------------
+1. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
+H I mapping: a distant cloud ionized by Mkn 1 // Mon. Not. R. Astron. Soc. - 2020 - in prep
+ADS: [2019arXiv190512693D](https://ui.adsabs.harvard.edu/#abs/2019arXiv190512693D/abstract)
+2.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
+ADS: [2019AstBu..74..379G](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..379G/abstract)
+3.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
+ADS: [2019AstBu..74..388U](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..388U/abstract)
+4. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.80.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2019 – in prep.
+ADS: [2019arXiv191110984M](https://ui.adsabs.harvard.edu/#abs/2019arXiv191110984M/abstract)
+6. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
+properties // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2019 – in prep.
+7. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910. 2. Гроховская А.А. 
+ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905A/abstract)
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Extra Section
 ----------------------------------------
+* Programming Languages
+	* Basic knowledge of **MatLab**, **Python**, **R**, **IDL**
+[My GitHub](https://github.com/ale-gro)
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     * Russian (native speaker)
+     * English (B1)
 
 ----
 
