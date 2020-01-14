@@ -18,23 +18,25 @@ Education
 Presentations
 ----------
 <html>
- <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- </head>
- <body>
-  <table border="0" width="100%" cellpadding="5">
-      <tr>
-          <th>Invited Talks</th>
-          <td></td>
-      </tr>
-      <tr>
-          <th>2019</th>
-          <td>Study environmental dependence of galaxy properties (12th Serbian Conference on Spectral Line Shapes in Astrophysics, Vrdnik, Serbia)</td>
-      </tr>
- </table>
- </body>
+    <head>
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </head>
+    <body>
+        <table border="0" width="100%" cellpadding="5">
+            <tr>
+                <th>Invited Talks</th>
+                <td></td>
+            </tr>
+            <tr>
+                <th>2019</th>
+                <td>Study environmental dependence of galaxy properties (12th Serbian Conference on Spectral Line Shapes in Astrophysics, Vrdnik, Serbia)</td>
+            </tr>
+       </table>
+    </body>
 </html>
+
      ----------
+     
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -83,6 +85,7 @@ Presentations
 </html>
 
 -------
+
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -130,6 +133,7 @@ Presentations
 </html>
 
 -------
+
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -152,9 +156,6 @@ Presentations
  </body>
 </html>
 
-**That Other Job You Had**
-
-Also with a short description.
 
 Publications
 --------------------
@@ -210,5 +211,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <grohovskaya.a@gmail.com> • +7 (913)106 87 39 • 30 years old\
+> address - Nizhnij Arkhyz, Russia
