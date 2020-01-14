@@ -24,10 +24,29 @@ Presentations
  <body>
   <table border="0" width="100%" cellpadding="5">
       <tr>
+          <th>Invited Talks</th>
+          <td></td>
+      </tr>
+      <tr>
+          <th>2019</th>
+          <td>Study environmental dependence of galaxy properties (12th Serbian Conference on Spectral Line Shapes in Astrophysics, Vrdnik, Serbia)</td>
+      </tr>
+ </table>
+ </body>
+</html>
+     ----------
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ </head>
+ <body>
+  <table border="0" width="100%" cellpadding="5">
+      <tr>
           <th>Talks</th>
           <td></td>
       </tr>
       <tr>
+     <tr>
           <th>2019</th>
           <td>Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic               Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)</td>
       </tr>
