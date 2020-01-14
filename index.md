@@ -31,8 +31,10 @@ Presentations
                 <th>2019</th>
                 <td>Study environmental dependence of galaxy properties (12th Serbian Conference on Spectral Line Shapes in Astrophysics, Vrdnik, Serbia)</td>
             </tr>
-       </table>
+  
+       
  <hr>
+ 
   <table border="0" width="100%" cellpadding="5">
       <tr>
           <th>Talks</th>
@@ -130,8 +132,7 @@ Presentations
           <td>VI Byurakan International Summer School of Practical Astrophysics (Byurakan Astrophysical Observatory, Byurakan, Armenia)               </td>
       </tr>
  </table>
- </body>
-</html>
+
 
 
 Publications
