@@ -20,6 +20,7 @@ Presentations
 <html>
     <head>
      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+     <title>&nbsp;</title>
     </head>
     <body>
         <table border="0" width="100%" cellpadding="5">
