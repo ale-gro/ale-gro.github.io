@@ -53,27 +53,95 @@ Presentations
          <th>2017</th>
          <td>Mathematical modeling of pulsar emission profiles (Student's conferences "Physics of Space", Kourovka astronomical                       observatory, Ekaterinburg, Russia)</td>
        </tr> 
+       <tr>
+          <th> </th>
+          <td>Mathematical modeling of pulsar emission profiles (International scientific conference of students and young scientists                    "Lomonosov", Moscow State University, Moscow, Russia)</td>
+      </tr>
+      <tr>
+          <th> 2016 </th>
+          <td>Construstion and identification of curvature radiation profiles from pulsars (Strong Field Problems in Quantum Theory,                     Tomsk State University, Tomsk, Russia)</td>
+      </tr>
+      <tr>
+          <th> </th>
+          <td>Kinematic identification of pulsar emission profiles (IV All-Russian Astronomical Conference "Heaven and Earth", Irkutsk,               Russia)</td>
+      </tr>
+      <tr>
+          <th> </th>
+          <td>Mathematical modeling of pulsar emission profiles (IV International Scientific Conference «Contemporary Problems of                     Continuum Mechanics – 2016», Tomsk State University, Tomsk, Russia)</td>
+      </tr>
  </table>
  </body>
 </html>
 
+-------
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ </head>
+ <body>
+  <table border="0" width="100%" cellpadding="5">
+      <tr>
+          <th>Talks</th>
+          <td></td>
+      </tr>
+      <tr>
+          <th>2019</th>
+          <td>Large-scale galaxy distribution of the field HS47.5-22 (High-energy astrophysics today and tomorrow HEA-2019, Space                     Research Institute, Moscow, Russia) </td>
+      </tr>
+      <tr>
+          <th></th>
+          <td>Spectral and photometric variability of VII Zw 244 (High-energy astrophysics today and tomorrow HEA-2019, Space Research                   Institute, Moscow, Russia)</td>
+      </tr>
+      <tr>
+          <th></th>
+          <td>Study environmental dependence of galaxy properties in a deep field (The European week of astronomy and space science, Lyon, France)</td>
+      </tr>
+      <tr>
+         <th></th>
+         <td>Photometric reverbiration mapping of AGN s at z=0.1-0.8 (The European week of astronomy and space science, Lyon, France)                 </td>
+       </tr> 
+       <tr>
+          <th>2018</th>
+          <td>Methods for analyzing the large-scale distribution of galaxies (High-energy astrophysics today and tomorrow HEA-2018, Space Research Institute, Moscow, Russia)</td>
+      </tr>
+      <tr>
+          <th></th>
+          <td>Photometric properties of a galaxies of the HS47.5-22 field (15th Potsdam Thinkshop "The role of feedback in galaxy                     formation from small-scale winds to large-scale outflows", Potsdam, Germany)</td>
+      </tr>
+      <tr>
+          <th>2017</th>
+          <td>Kinematic identification of pulsar emission profiles (IV All-Russian Astronomical Conference "Heaven and Earth", Irkutsk,               Russia)</td>
+      </tr>
+      <tr>
+          <th> </th>
+          <td>Photometric properties of a galaxies of the field HS47.5-22 (High-energy astrophysics today and tomorrow HEA-2017, Space                Research Institute, Moscow, Russia)</td>
+      </tr>
+ </table>
+ </body>
+</html>
 
 -------
-|Posters| |
-|--|--|
-| **2019** | Large-scale galaxy distribution of the field HS47.5-22 (High-energy astrophysics today and tomorrow HEA-2019, Space Research Institute, Moscow, Russia) |
-||Spectral and photometric variability of VII Zw 244 (High-energy astrophysics today and tomorrow HEA-2019, Space Research Institute, Moscow, Russia)|
-| **2018** | Study environmental dependence of galaxy properties in a deep field (The European week of astronomy and space science, Lyon, France)|
-|| Photometric reverbiration mapping of AGN s at z=0.1-0.8 (The European week of astronomy and space science, Lyon, France)|
-||Methods for analyzing the large-scale distribution of galaxies (High-energy astrophysics today and tomorrow HEA-2018, Space Research Institute, Moscow, Russia) |
-||Photometric properties of a galaxies of the HS47.5-22 field (15th Potsdam Thinkshop "The role of feedback in galaxy formation from small-scale winds to large-scale outflows", Potsdam, Germany)|
-| **2017** | Photometric properties of a galaxies of the field HS47.5-22 (High-energy astrophysics today and tomorrow HEA-2017, Space Research Institute, Moscow, Russia) |
--------
-|Schools| |
-|--|--|
-| **2019** | BASIS Foundation Summer School 2019 "Evolution of galaxies and stars" (“BASIS” Foundation, Sternberg Astronomical Institute and Faculty of Physics of Lomonosov Moscow State University, Sochi, Russia) |
-| **2018** | VI Byurakan International Summer School of Practical Astrophysics (Byurakan Astrophysical Observatory, Byurakan, Armenia) |
-
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ </head>
+ <body>
+  <table border="0" width="100%" cellpadding="5">
+      <tr>
+          <th>Schools</th>
+          <td></td>
+      </tr>
+      <tr>
+          <th>2019</th>
+          <td>BASIS Foundation Summer School 2019 "Evolution of galaxies and stars" (“BASIS” Foundation, Sternberg Astronomical                         Institute and Faculty of Physics of Lomonosov Moscow State University, Sochi, Russia) </td>
+      </tr>
+      <tr>
+          <th>2018</th>
+          <td>VI Byurakan International Summer School of Practical Astrophysics (Byurakan Astrophysical Observatory, Byurakan, Armenia)               </td>
+      </tr>
+ </table>
+ </body>
+</html>
 
 **That Other Job You Had**
 
