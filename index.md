@@ -86,7 +86,7 @@ Extra Section
 
 * Human Languages:
      * Russian (native speaker)
-     * English (B1)
+     * English (B2)
 
 ----
 
