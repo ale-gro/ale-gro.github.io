@@ -68,10 +68,11 @@ ADS: [2019arXiv190512693D](https://ui.adsabs.harvard.edu/#abs/2019arXiv190512693
 ADS: [2019AstBu..74..379G](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..379G/abstract)
 3.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
 ADS: [2019AstBu..74..388U](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..388U/abstract)
-4. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.80.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020 – in prep.
-ADS: [2019arXiv191110984M](https://ui.adsabs.harvard.edu/#abs/2019arXiv191110984M/abstract)
+4. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.80.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020 – Vol.50, No. 1 - P.328-340
+ADS: [2020CoSka..50..328M](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..328M/abstract)
 6. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
-properties // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020 – in prep.
+properties // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020 – Vol.50, No. 1 - P.257-269
+ADS: [2020CoSka..50..257D](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..257D/abstract)
 7. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910.  
 ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905A/abstract)
 
