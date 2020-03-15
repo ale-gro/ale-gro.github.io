@@ -58,22 +58,28 @@ Presentations
 | **2018** | VI Byurakan International Summer School of Practical Astrophysics (Byurakan Astrophysical Observatory, Byurakan, Armenia) |
 
 -------
+
+|Awards| |
+|--|--|
+| **2020** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Astrophysical Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020 |
+| **2020** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020  |
+
  
 Publications
 --------------------
-1. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
-H I mapping: a distant cloud ionized by Mkn 1 // Mon. Not. R. Astron. Soc. - 2020 - in prep
-ADS: [2019arXiv190512693D](https://ui.adsabs.harvard.edu/#abs/2019arXiv190512693D/abstract)
-2.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
-ADS: [2019AstBu..74..379G](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..379G/abstract)
-3.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
-ADS: [2019AstBu..74..388U](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..388U/abstract)
-4. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.80.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020 – Vol.50, No. 1 - P.328-340
-ADS: [2020CoSka..50..328M](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..328M/abstract)
-6. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
+1. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
 properties // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020 – Vol.50, No. 1 - P.257-269
 ADS: [2020CoSka..50..257D](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..257D/abstract)
-7. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910.  
+2. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.80.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020 – Vol.50, No. 1 - P.328-340
+ADS: [2020CoSka..50..328M](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..328M/abstract)
+3. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
+H I mapping: a distant cloud ionized by Mkn 1 // Mon. Not. R. Astron. Soc. - 2020 - in prep
+ADS: [2019arXiv190512693D](https://ui.adsabs.harvard.edu/#abs/2019arXiv190512693D/abstract)
+4.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
+ADS: [2019AstBu..74..379G](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..379G/abstract)
+5.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
+ADS: [2019AstBu..74..388U](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..388U/abstract)
+6. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910.  
 ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905A/abstract)
 
 
@@ -82,7 +88,7 @@ ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905
 Extra Section
 ----------------------------------------
 * Programming Languages
-	* Basic knowledge of **MatLab**, **Python**, **R**, **IDL**
+	* Basic knowledge of **MatLab**, **Python**, **R** (in progress), **IDL**
 [My GitHub](https://github.com/ale-gro)
 
 * Human Languages:
