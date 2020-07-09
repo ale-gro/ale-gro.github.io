@@ -3,6 +3,9 @@
 Education
 ---------
 
+2020-2021 (expected)
+:   **Data analyst**; Online Learning Center "Netologiya-groups" ([netology.ru](https://netology.ru/))
+
 2017-2021 (expected)
 :   **PhD, Physical and Mathematical  Science**; Special Astrophysical Observatory (Nizhnij Arkhyz, Karachai-Cherkessian Republic, Russia)
 
@@ -10,7 +13,6 @@ Education
 
 2015-2017
 :   **Master, Physics**; The National Research Tomsk State University (TSU, Tomsk, Russia)
-
 
 2006-2011
 :   **Engineer, Computer Science**; Tomsk State University of Control Systems and Radioelectronics (TUSUR University, Russia)
@@ -74,7 +76,7 @@ ADS: [2020CoSka..50..257D](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..257D
 ADS: [2020CoSka..50..328M](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..328M/abstract)
 3. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
 H I mapping: a distant cloud ionized by Mkn 1 // Mon. Not. R. Astron. Soc. - 2020 - in prep
-ADS: [2019arXiv190512693D](https://ui.adsabs.harvard.edu/#abs/2019arXiv190512693D/abstract)
+MNRAS: [2020MNRAS.496.1035K](https://academic.oup.com/mnras/article/496/2/1035/5850385?guestAccessKey=717b74ff-e32a-4bdf-90aa-1328b3effc9a)
 4.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
 ADS: [2019AstBu..74..379G](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..379G/abstract)
 5.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
@@ -88,7 +90,7 @@ ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905
 Extra Section
 ----------------------------------------
 * Programming Languages
-	* Basic knowledge of **MatLab**, **Python**, **R** (in progress), **IDL**
+	* Basic knowledge of **MatLab**, **Python**, **IDL**
 [My GitHub](https://github.com/ale-gro)
 
 * Human Languages:
