@@ -9,7 +9,7 @@ Education
 2017-2021 (expected)
 :   **PhD, Physical and Mathematical  Science**; Special Astrophysical Observatory (Nizhnij Arkhyz, Karachai-Cherkessian Republic, Russia)
 
-    *Thesis title: Star formation hystory in galaxies up to Z = 1*
+    *Thesis title: Star formation history in galaxies up to Z = 1*
 
 2015-2017
 :   **Master, Physics**; The National Research Tomsk State University (TSU, Tomsk, Russia)
