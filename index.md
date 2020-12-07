@@ -70,7 +70,7 @@ Presentations
  
 Publications
 --------------------
-1. E.A. Malygin, E.S. Shablovinskaya, R.I. Uklein, A.A. Grokhovskaya ИЗМЕРЕНИЕ МАСС СВЕРХМАССИВНЫХ ЧЕРНЫХ ДЫР В ЯДРАХ ДВУХ АКТИВНЫХ ГАЛАКТИК МЕТОДОМ ФОТОМЕТРИЧЕСКОГО ЭХОКАРТИРОВАНИЯ // ПИСЬМА В АСТРОНОМИЧЕСКИЙ ЖУРНАЛ. - 2020. – Vol.46, No. 11 - P.774–782
+1. E.A. Malygin, E.S. Shablovinskaya, R.I. Uklein, A.A. Grokhovskaya Измерение масс сверхмассивных черных дыр в ядрах двух активных галактик методом фотометрического эхокартирования // ПИСЬМА В АСТРОНОМИЧЕСКИЙ ЖУРНАЛ. - 2020. – Vol.46, No. 11 - P.774–782
 ADS: [-]()
 2. Aleksandra Grokhovskaya, Sergei N. Dodonov, T. A. Movsessian Large Scale Distribution of Galaxies in The Field HS 47.5-22. II. Observational Data Analysis
 // Astrophysical Bulletin. – 2020. – Vol.75, No. 3 - P.219-233
@@ -78,7 +78,7 @@ ADS: [2020AstBu..75..219G](https://ui.adsabs.harvard.edu/abs/2020arXiv200604930G
 3. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
 properties // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.257-269
 ADS: [2020CoSka..50..257D](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..257D/abstract)
-4. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.80.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.328-340
+4. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.328-340
 ADS: [2020CoSka..50..328M](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..328M/abstract)
 5. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
 H I mapping: a distant cloud ionized by Mkn 1 // Mon. Not. R. Astron. Soc. - 2020. - Vol. 496, Issue 2 - P. 1035–1050
