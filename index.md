@@ -3,7 +3,7 @@
 Education
 ---------
 
-2020-2021 (expected)
+2020-2021 
 :   **Data analyst**; Online Learning Center "Netologiya-groups" ([netology.ru](https://netology.ru/))
 
 2017-2021 (expected)
@@ -64,30 +64,34 @@ Presentations
 
 |Awards| |
 |--|--|
+| **2021** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Young scientists Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020 |
+| **2021** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020  |
 | **2020** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Astrophysical Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020 |
 | **2020** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020  |
 
  
 Publications
 --------------------
-1. E.A. Malygin, E.S. Shablovinskaya, R.I. Uklein, A.A. Grokhovskaya Измерение масс сверхмассивных черных дыр в ядрах двух активных галактик методом фотометрического эхокартирования // ПИСЬМА В АСТРОНОМИЧЕСКИЙ ЖУРНАЛ. - 2020. – Vol.46, No. 11 - P.774–782
-ADS: [-]()
-2. Aleksandra Grokhovskaya, Sergei N. Dodonov, T. A. Movsessian Large Scale Distribution of Galaxies in The Field HS 47.5-22. II. Observational Data Analysis
+1. Valeev, A. F.; Vinokurov, A.; Fabrika, S.; Borisov, N. V.; Grokhovskaya, A. A.; Solovyeva, Yu. Spectral classification of the AT2020abjr near M31 galaxy // The Astronomer's Telegram, No. 14269 - 2020
+ADS: [2020ATel14269....1V](https://ui.adsabs.harvard.edu/abs/2020ATel14269....1V/abstract)
+2. E.A. Malygin, E.S. Shablovinskaya, R.I. Uklein, A.A. Grokhovskaya Measurement of the supermassive black hole masses in two active galactic nuclei by the photometric reverberation mapping method // Astronomy Letters. - 2020. – Vol.46, No. 11 - P.774–782
+ADS: [arXiv:2103.05801](https://ui.adsabs.harvard.edu/abs/2021arXiv210305801M/abstract)
+3. Aleksandra Grokhovskaya, Sergei N. Dodonov, T. A. Movsessian Large Scale Distribution of Galaxies in The Field HS 47.5-22. II. Observational Data Analysis
 // Astrophysical Bulletin. – 2020. – Vol.75, No. 3 - P.219-233
 ADS: [2020AstBu..75..219G](https://ui.adsabs.harvard.edu/abs/2020arXiv200604930G/abstract)
-3. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
+4. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
 properties // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.257-269
 ADS: [2020CoSka..50..257D](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..257D/abstract)
-4. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.328-340
+5. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.328-340
 ADS: [2020CoSka..50..328M](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..328M/abstract)
-5. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
+6. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
 H I mapping: a distant cloud ionized by Mkn 1 // Mon. Not. R. Astron. Soc. - 2020. - Vol. 496, Issue 2 - P. 1035–1050
 MNRAS: [2020MNRAS.496.1035K](https://academic.oup.com/mnras/article/496/2/1035/5850385?guestAccessKey=717b74ff-e32a-4bdf-90aa-1328b3effc9a)
-6.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
+7.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
 ADS: [2019AstBu..74..379G](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..379G/abstract)
-7.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
+9.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
 ADS: [2019AstBu..74..388U](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..388U/abstract)
-8. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910.  
+10. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910.  
 ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905A/abstract)
 
 
@@ -96,7 +100,7 @@ ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905
 Extra Section
 ----------------------------------------
 * Programming Languages
-	* Basic knowledge of **MatLab**, **Python**, **IDL**
+	* Basic knowledge of **MatLab**, **Python** (including ML), **IDL**
 [My GitHub](https://github.com/ale-gro)
 
 * Human Languages:
@@ -105,5 +109,5 @@ Extra Section
 
 ----
 
-> <grohovskaya.a@gmail.com> • +7 (913)106 87 39 • 30 years old\
+> <grohovskaya.a@gmail.com> • telegram @astrolady • 31 years old\
 > address - Nizhnij Arkhyz, Russia
