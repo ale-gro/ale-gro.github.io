@@ -64,8 +64,8 @@ Presentations
 
 |Awards| |
 |--|--|
-| **2021** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Young scientists Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020 |
-| **2021** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020  |
+| **2021** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Young scientists Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2021 |
+| **2021** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2021  |
 | **2020** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Astrophysical Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020 |
 | **2020** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020  |
 
