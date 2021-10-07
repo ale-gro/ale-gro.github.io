@@ -30,6 +30,8 @@ Presentations
 
 |Talks| |
 |--|--|
+| **2021** | Exploring the environment of active galaxies (13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrad, Serbia / Online) |
+| **2021** | gMOSS and cMOSS: catalogs of galaxies and their groups in the HS47.5-22 field (All-Russian Astronomical Conference, Online) |
 | **2019** |Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
 | **2018** |Photometric properties of a galaxies of the field HS47.5-22 (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
 ||Properties of a galaxy sample of the field HS 47.5-22 (II Pulkovo Astronomical Youth Conference - 2009, St. Petersburg, Russia)|
@@ -44,6 +46,7 @@ Presentations
 
 |Posters| |
 |--|--|
+| **2021** | gMOSS - Galaxies of Medium-band One-meter Schmidt Survey (Multi-object Spectroscopy for Statistical Measures of Galaxy Evolution, Online) |
 | **2020** | Optical identification of X-ray sources in the HS47.5-22 field (ADASS-2020, Online) |
 | **2019** | Large-scale galaxy distribution of the field HS47.5-22 (High-energy astrophysics today and tomorrow HEA-2019, Space Research Institute, Moscow, Russia) |
 ||Spectral and photometric variability of VII Zw 244 (High-energy astrophysics today and tomorrow HEA-2019, Space Research Institute, Moscow, Russia)|
@@ -72,26 +75,34 @@ Presentations
  
 Publications
 --------------------
-1. Valeev, A. F.; Vinokurov, A.; Fabrika, S.; Borisov, N. V.; Grokhovskaya, A. A.; Solovyeva, Yu. Spectral classification of the AT2020abjr near M31 galaxy // The Astronomer's Telegram, No. 14269 - 2020
+1. Vinokurov, A. ; Fabrika, S. ; Sarkisyan, A. ; Solovyeva, Yu. ; Grokhovskaya, A. ; Valcheva, A. ; Nedialkov, P. Spectroscopic confirmation and photometry of the nova candidate AT2021ypn // The Astronomer's Telegram, No. 14919 - 2021
+ADS: [2021ATel14919....1V](https://ui.adsabs.harvard.edu/abs/2021ATel14919....1V/abstract)
+2. Burenin, R. A. ; Bikmaev, I. F. ; Gilfanov, M. R. ; Grokhovskaya, A. A. ; Dodonov, S. N. ; Eselevich, M. V. ; Zaznobin, I. A. ; Irtuganov, E. N. ; Lyskova, N. S. ; Medvedev, P. S. ; Meshcheryakov, A. V. ; Moiseev, A. V. ; Sazonov, S. Yu. ; Starobinsky, A. A. ; Sunyaev, R. A. ; Uklein, R. I. ; Khabibullin, I. I. ; Khamitov, I. M. ; Churazov, E. M. Observation of a very massive galaxy cluster at z=0.76 in SRG/eROSITA all-sky survey // Astronomy Letters. - 2021. - Vol. 47, Issue 7 - P.461-471 
+ADS: [arXiv:2108.09252](https://ui.adsabs.harvard.edu/abs/2021arXiv210809252B/abstract)
+3. Sazonov, S. ; Gilfanov, M. ; Medvedev, P. ; Yao, Y. ; Khorunzhev, G. ; Semena, A. ; Sunyaev, R. ; Burenin, R. ; Lyapin, A. ; Meshcheryakov, A. ; Uskov, G. ; Zaznobin, I. ; Postnov, K. A. ; Dodin, A. V. ; Belinski, A. A. ; Cherepashchuk, A. M. ; Eselevich, M. ; Dodonov, S. N. ; Grokhovskaya, A. A. ; Kotov, S. S. Bikmaev, I. F. ; Zhuchkov, R. Ya. ; Gumerov, R. I. ; van Velzen, S. ; Kulkarni, S. First tidal disruption events discovered by SRG/eROSITA: X-ray/optical properties and X-ray luminosity function at z<0.6 // submitted to MNRAS
+ADS: [arXiv:2108.02449](https://ui.adsabs.harvard.edu/abs/2021arXiv210802449S/abstract)
+4. Zaznobin, I. A. ; Burenin, R. A. ; Lyapin, A. R. ; Khorunzhev, G. A. ; Afanasiev, V. L. ; Grokhovskaya, A. A. ; Dodonov, S. N. ; Eselevich, M. V. ; Uklein, R. I. ; Bikmaev, I. F. ; Khamitov, I. M. ; Gilfanov, M. R. ; Lyskova, N. S. ; Medvedev, P. S. ; Sunyaev, R. A. Spectroscopic Redshift Measurements for Galaxy Clusters from the Lockman Hole Survey with the eROSITA Telescope Onboard the SRG Observatory // Astronomy Letters. - 2021. - Vol. 47, Issue 3 - P.141-149
+ADS: [2021AstL...47..141Z](https://ui.adsabs.harvard.edu/abs/2021AstL...47..141Z/abstract)
+5. Valeev, A. F.; Vinokurov, A.; Fabrika, S.; Borisov, N. V.; Grokhovskaya, A. A.; Solovyeva, Yu. Spectral classification of the AT2020abjr near M31 galaxy // The Astronomer's Telegram, No. 14269 - 2020
 ADS: [2020ATel14269....1V](https://ui.adsabs.harvard.edu/abs/2020ATel14269....1V/abstract)
-2. E.A. Malygin, E.S. Shablovinskaya, R.I. Uklein, A.A. Grokhovskaya Measurement of the supermassive black hole masses in two active galactic nuclei by the photometric reverberation mapping method // Astronomy Letters. - 2020. – Vol.46, No. 11 - P.774–782
+6. E.A. Malygin, E.S. Shablovinskaya, R.I. Uklein, A.A. Grokhovskaya Measurement of the supermassive black hole masses in two active galactic nuclei by the photometric reverberation mapping method // Astronomy Letters. - 2020. – Vol.46, No. 11 - P.774–782
 ADS: [arXiv:2103.05801](https://ui.adsabs.harvard.edu/abs/2021arXiv210305801M/abstract)
-3. Aleksandra Grokhovskaya, Sergei N. Dodonov, T. A. Movsessian Large Scale Distribution of Galaxies in The Field HS 47.5-22. II. Observational Data Analysis
+7. Aleksandra Grokhovskaya, Sergei N. Dodonov, T. A. Movsessian Large Scale Distribution of Galaxies in The Field HS 47.5-22. II. Observational Data Analysis
 // Astrophysical Bulletin. – 2020. – Vol.75, No. 3 - P.219-233
 ADS: [2020AstBu..75..219G](https://ui.adsabs.harvard.edu/abs/2020arXiv200604930G/abstract)
-4. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
+8. S. N. Dodonov and A. A. Grokhovskaya Study environmental dependence of galaxy
 properties // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.257-269
 ADS: [2020CoSka..50..257D](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..257D/abstract)
-5. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.328-340
+9. E.A. Malygin, R.I. Uklein, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Medium-band photometric reverberation mapping of AGNs at  0.1<z<0.8. Techniques and sample // Contributions of the Astronomical Observatory Skalnaté Pleso (CAOSP). – 2020. – Vol.50, No. 1 - P.328-340
 ADS: [2020CoSka..50..328M](https://ui.adsabs.harvard.edu/abs/2020CoSka..50..328M/abstract)
-6. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
+10. E. D. Knese, W. C. Keel, G. Knese, V. N. Bennert, A. Moiseev, A. Grokhovskaya and S.N. Dodonov An [O III] search for extended emission around AGN with
 H I mapping: a distant cloud ionized by Mkn 1 // Mon. Not. R. Astron. Soc. - 2020. - Vol. 496, Issue 2 - P. 1035–1050
 MNRAS: [2020MNRAS.496.1035K](https://academic.oup.com/mnras/article/496/2/1035/5850385?guestAccessKey=717b74ff-e32a-4bdf-90aa-1328b3effc9a)
-7.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
+11.  Grokhovskaya and S.N. Dodonov Large Scale Distribution of Galaxies in the Field HS 47.5-22. I. Method of Data Analysis // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.379-387. 
 ADS: [2019AstBu..74..379G](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..379G/abstract)
-9.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
+12.  R.I. Uklein, E.A. Malygin, E.S. Shablovinskaya, A. E. Perepelitsyn, A.A. Grokhovskaya Photometric Reverberation Mapping of AGNs at 0.10.1 < z < 0.8. I. Observational Technique // Astrophysical Bulletin. – 2019. – Vol. 74, No. 4. – P.388-395.
 ADS: [2019AstBu..74..388U](https://ui.adsabs.harvard.edu/#abs/2019AstBu..74..388U/abstract)
-10. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910.  
+13. V.A. Avdyushev, V.A. Bordovitsyn, A.A. Grokhovskaya Construction and identification of profiles of curvature radiation of pulsars // Russian Physics Journal. – 2017. - Vol. 59, No. 11. – P.1905-1910.  
 ADS: [2017RuPhJ..59.1905A](https://ui.adsabs.harvard.edu/#abs/2017RuPhJ..59.1905A/abstract)
 
 
