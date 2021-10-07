@@ -31,7 +31,7 @@ Presentations
 |Talks| |
 |--|--|
 | **2021** | Exploring the environment of active galaxies (13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrad, Serbia / Online) |
-| **2021** | gMOSS and cMOSS: catalogs of galaxies and their groups in the HS47.5-22 field (All-Russian Astronomical Conference, Online) |
+|| gMOSS and cMOSS: catalogs of galaxies and their groups in the HS47.5-22 field (All-Russian Astronomical Conference, Online) |
 | **2019** |Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
 | **2018** |Photometric properties of a galaxies of the field HS47.5-22 (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
 ||Properties of a galaxy sample of the field HS 47.5-22 (II Pulkovo Astronomical Youth Conference - 2009, St. Petersburg, Russia)|
@@ -68,9 +68,9 @@ Presentations
 |Awards| |
 |--|--|
 | **2021** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Young scientists Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2021 |
-| **2021** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2021  |
+|| Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2021  |
 | **2020** | First Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Astrophysical Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020 |
-| **2020** | Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020  |
+|| Second Prize, The traditional annual competition conference of scientific and scientific-engineering papers of the Observatory staff members, Popular-science Competition, Special Astrophysical Observatory, Nizhnij Arkhyz, Russia, 2020  |
 
  
 Publications
