@@ -30,7 +30,8 @@ Presentations
 
 |Talks| |
 |--|--|
-| **2021** | Exploring the environment of active galaxies (13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrad, Serbia / Online) |
+| **2021** | One-Meter Schmidt Telescope of the Byurakan Astrophysical Observatory: New Capabilities (The 12th Gaia Science Alerts workshop, Crete, Greece) |
+|| Exploring the environment of active galaxies (13th Serbian Conference on Spectral Line Shapes in Astrophysics, Belgrad, Serbia / Online) |
 || gMOSS and cMOSS: catalogs of galaxies and their groups in the HS47.5-22 field (All-Russian Astronomical Conference, Online) |
 | **2019** |Large-scale distribution of galaxies of the field  HS 47.5-22: data analysis technique (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
 | **2018** |Photometric properties of a galaxies of the field HS47.5-22 (Modern Problems for ExtraGalactic Astronomy,Pushcino Radio Astronomical Observatory, Pushcino, Russia)|
@@ -60,6 +61,7 @@ Presentations
 
 |Schools| |
 |--|--|
+| **2021** | DUNLAP INSTITUTE VIRTUAL SUMMER SCHOOL – INTRODUCTION TO ASTRONOMICAL INSTRUMENTATION (Dunlap Institute for Astronomy and Astrophysics, University of Toronto, Canada) |
 | **2019** | BASIS Foundation Summer School 2019 "Evolution of galaxies and stars" (“BASIS” Foundation, Sternberg Astronomical Institute and Faculty of Physics of Lomonosov Moscow State University, Sochi, Russia) |
 | **2018** | VI Byurakan International Summer School of Practical Astrophysics (Byurakan Astrophysical Observatory, Byurakan, Armenia) |
 
@@ -75,6 +77,10 @@ Presentations
  
 Publications
 --------------------
+1. Zielinski, P. ; Grokhovskaya, A. ; Shablovinskaya, E. ; Moiseev, A. ; Gromadzki, M. ; Wyrzykowski, L. ; Ihanec, N. ; Gezer, I. ; Jablonska ; M. ; Kruszynska, K. ; Rybicki, K. A. ; Mikolajczyk, P. ; Maskoliunas, M. ; Pakstiene, E. ; Zdanavicius, J. BAT/Scorpio-2 spectroscopic classification of Gaia microlensing event candidates // The Astronomer's Telegram, No. 15195 ADS: [2022ATel15195....1Z](https://ui.adsabs.harvard.edu/abs/2022ATel15195....1Z/abstract)
+2. Kotov, Sergey ; Dodonov, Sergey ; Grokhovskaya, Aleksandra. Quasars' physical properties study based on the medium-band photometric survey // Astronomische Nachrichten - 2022 - Vol. 343, Issue 1-2 - article id. e210092 ADS: [2022AN....34310092K](https://ui.adsabs.harvard.edu/abs/2022AN....34310092K/abstract)
+3. Sazonov, S. ; Gilfanov, M. ; Medvedev, P. ; Yao, Y. ; Khorunzhev, G. ; Semena, A. ; Sunyaev, R. ; Burenin, R. ; Lyapin, A. ; Meshcheryakov, A. ; Uskov, G. ; Zaznobin, I. ; Postnov, K. A. search by orcid ; Dodin, A. V. ; Belinski, A. A. ; Cherepashchuk, A. M. ; Eselevich, M. ; Dodonov, S. N. ; Grokhovskaya, A. A. ; Kotov, S. S.; Bikmaev, I. F. ; Zhuchkov, R. Ya ; Gumerov, R. I. ; van Velzen, S. ; Kulkarni, S. First tidal disruption events discovered by SRG/eROSITA: X-ray/optical properties and X-ray luminosity function at z < 0.6 // Monthly Notices of the Royal Astronomical Society - 2021. - Vol. 508, Issue 3 - P.3820-3847
+ADS: [2021MNRAS.508.3820S](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.3820S/abstract)
 1. Vinokurov, A. ; Fabrika, S. ; Sarkisyan, A. ; Solovyeva, Yu. ; Grokhovskaya, A. ; Valcheva, A. ; Nedialkov, P. Spectroscopic confirmation and photometry of the nova candidate AT2021ypn // The Astronomer's Telegram, No. 14919 - 2021
 ADS: [2021ATel14919....1V](https://ui.adsabs.harvard.edu/abs/2021ATel14919....1V/abstract)
 2. Burenin, R. A. ; Bikmaev, I. F. ; Gilfanov, M. R. ; Grokhovskaya, A. A. ; Dodonov, S. N. ; Eselevich, M. V. ; Zaznobin, I. A. ; Irtuganov, E. N. ; Lyskova, N. S. ; Medvedev, P. S. ; Meshcheryakov, A. V. ; Moiseev, A. V. ; Sazonov, S. Yu. ; Starobinsky, A. A. ; Sunyaev, R. A. ; Uklein, R. I. ; Khabibullin, I. I. ; Khamitov, I. M. ; Churazov, E. M. Observation of a very massive galaxy cluster at z=0.76 in SRG/eROSITA all-sky survey // Astronomy Letters. - 2021. - Vol. 47, Issue 7 - P.461-471 
