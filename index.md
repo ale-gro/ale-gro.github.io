@@ -85,8 +85,6 @@ ADS: [2021MNRAS.508.3820S](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.3820S
 ADS: [2021ATel14919....1V](https://ui.adsabs.harvard.edu/abs/2021ATel14919....1V/abstract)
 2. Burenin, R. A. ; Bikmaev, I. F. ; Gilfanov, M. R. ; Grokhovskaya, A. A. ; Dodonov, S. N. ; Eselevich, M. V. ; Zaznobin, I. A. ; Irtuganov, E. N. ; Lyskova, N. S. ; Medvedev, P. S. ; Meshcheryakov, A. V. ; Moiseev, A. V. ; Sazonov, S. Yu. ; Starobinsky, A. A. ; Sunyaev, R. A. ; Uklein, R. I. ; Khabibullin, I. I. ; Khamitov, I. M. ; Churazov, E. M. Observation of a very massive galaxy cluster at z=0.76 in SRG/eROSITA all-sky survey // Astronomy Letters. - 2021. - Vol. 47, Issue 7 - P.461-471 
 ADS: [arXiv:2108.09252](https://ui.adsabs.harvard.edu/abs/2021arXiv210809252B/abstract)
-3. Sazonov, S. ; Gilfanov, M. ; Medvedev, P. ; Yao, Y. ; Khorunzhev, G. ; Semena, A. ; Sunyaev, R. ; Burenin, R. ; Lyapin, A. ; Meshcheryakov, A. ; Uskov, G. ; Zaznobin, I. ; Postnov, K. A. ; Dodin, A. V. ; Belinski, A. A. ; Cherepashchuk, A. M. ; Eselevich, M. ; Dodonov, S. N. ; Grokhovskaya, A. A. ; Kotov, S. S. Bikmaev, I. F. ; Zhuchkov, R. Ya. ; Gumerov, R. I. ; van Velzen, S. ; Kulkarni, S. First tidal disruption events discovered by SRG/eROSITA: X-ray/optical properties and X-ray luminosity function at z<0.6 // submitted to MNRAS
-ADS: [arXiv:2108.02449](https://ui.adsabs.harvard.edu/abs/2021arXiv210802449S/abstract)
 4. Zaznobin, I. A. ; Burenin, R. A. ; Lyapin, A. R. ; Khorunzhev, G. A. ; Afanasiev, V. L. ; Grokhovskaya, A. A. ; Dodonov, S. N. ; Eselevich, M. V. ; Uklein, R. I. ; Bikmaev, I. F. ; Khamitov, I. M. ; Gilfanov, M. R. ; Lyskova, N. S. ; Medvedev, P. S. ; Sunyaev, R. A. Spectroscopic Redshift Measurements for Galaxy Clusters from the Lockman Hole Survey with the eROSITA Telescope Onboard the SRG Observatory // Astronomy Letters. - 2021. - Vol. 47, Issue 3 - P.141-149
 ADS: [2021AstL...47..141Z](https://ui.adsabs.harvard.edu/abs/2021AstL...47..141Z/abstract)
 5. Valeev, A. F.; Vinokurov, A.; Fabrika, S.; Borisov, N. V.; Grokhovskaya, A. A.; Solovyeva, Yu. Spectral classification of the AT2020abjr near M31 galaxy // The Astronomer's Telegram, No. 14269 - 2020
@@ -126,5 +124,5 @@ Extra Section
 
 ----
 
-> <grohovskaya.a@gmail.com> • telegram @astrolady • 31 years old\
+> <grohovskaya.a@gmail.com> • telegram @astrolady • 32 years old\
 > address - Nizhnij Arkhyz, Russia
