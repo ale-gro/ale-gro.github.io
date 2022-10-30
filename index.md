@@ -10,7 +10,7 @@ Education
 2020-2021 
 :   **Data analyst**; Online Learning Center "Netologiya-groups" ([netology.ru](https://netology.ru/))
 
-2017-2021 (expected)
+2017-2021 
 :   **PhD, Physical and Mathematical  Science**; Special Astrophysical Observatory (Nizhnij Arkhyz, Karachai-Cherkessian Republic, Russia)
 
     *Thesis title: Star formation history in galaxies up to Z = 1*
@@ -130,5 +130,5 @@ Extra Section
 
 ----
 
-> <grohovskaya.a@gmail.com> • telegram @astrolady • 32 years old\
-> address - Nizhnij Arkhyz, Russia
+> <grohovskaya.a@gmail.com> • telegram @astrolady • 33 years old\
+> address - Moscow, Russia
