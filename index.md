@@ -126,7 +126,8 @@ Extra Section
 
 * Human Languages:
      * Russian (native speaker)
-     * English (B2)
+     * English (C1)
+     * Français (A1)
 
 ----
 
